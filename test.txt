@@ -1,2 +1,4 @@
 Git is a version control system.
 Git is free software.
+这是新增到分支的内容。
+又新增了一条内容。
